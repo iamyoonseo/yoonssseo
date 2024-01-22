@@ -1,11 +1,11 @@
 ### Hi there 👋
-
+## 🔭 I’m currently working on Dancing Computer Interaction.
+# 🌱 I’m currently learning Programming.
+- 👯 I’m looking to collaborate on dance performers. (Idols, dancers)
 <!--
 **yoonssseo/yoonssseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## 🔭 I’m currently working on Dancing Computer Interaction.
-- 🌱 I’m currently learning Programming.
-- 👯 I’m looking to collaborate on dance performers. (Idols, dancers)
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
